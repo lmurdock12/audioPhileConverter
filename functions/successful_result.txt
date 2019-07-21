@@ -1,0 +1,461 @@
+Transcriptions status: completed (this transcription): False, 0 running, 1 not started yet
+Transcriptions status: completed (this transcription): False, 0 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 1 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 2 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 3 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 4 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 5 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 6 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 7 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 8 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 9 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 10 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 11 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 12 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 13 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 14 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 15 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 16 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 17 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 18 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 19 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 20 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 21 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 22 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 23 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 24 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 25 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 26 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 27 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 28 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 29 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 30 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 31 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 32 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 33 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 34 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 35 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 36 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 37 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 38 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 39 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 40 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 41 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 42 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 43 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 44 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 45 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 46 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 47 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 48 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 49 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 50 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 51 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 52 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 53 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 54 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 55 running, 2 not started yet
+Transcriptions status: completed (this transcription): False, 56 running, 2 not started yet
+Transcription succeeded. Results:
+{
+  "AudioFileResults": [
+    {
+      "AudioFileName": "Channel.0.wav",
+      "AudioFileUrl": null,
+      "SegmentResults": [
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "SpeakerId": null,
+          "Offset": 53000000,
+          "Duration": 56200000,
+          "NBest": [
+            {
+              "Confidence": 0.917456031,
+              "Lexical": "well good morning everyone and thank you for joining us so everybody hear me OK",
+              "ITN": "well good morning everyone and thank you for joining us so everybody hear me OK",
+              "MaskedITN": "well good morning everyone and thank you for joining us so everybody hear me OK",
+              "Display": "Well, good morning, everyone and thank you for joining us so everybody hear me OK.",
+              "Sentiment": null,
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "SpeakerId": null,
+          "Offset": 116100000,
+          "Duration": 301000000,
+          "NBest": [
+            {
+              "Confidence": 0.930928,
+              "Lexical": "we're good so i'm matt birja ron i'm the vice president of marketing for our fuels and lubricants business and it's really my privilege to welcome you here this morning for what we think is going to be a very interesting engaging and hopefully provocative discussion around innovation i wanted to make a couple of comments before i introduce our guest speaker and i'll start with",
+              "ITN": "we're good so I'm Matt birja Ron I'm the vice president of marketing for our fuels and lubricants business and it's really my privilege to welcome you here this morning for what we think is going to be a very interesting engaging and hopefully provocative discussion around innovation I wanted to make a couple of comments before I introduce our guest speaker and I'll start with",
+              "MaskedITN": "we're good so I'm Matt birja Ron I'm the vice president of marketing for our fuels and lubricants business and it's really my privilege to welcome you here this morning for what we think is going to be a very interesting engaging and hopefully provocative discussion around innovation I wanted to make a couple of comments before I introduce our guest speaker and I'll start with",
+              "Display": "We're good so I'm Matt Birja, Ron I'm the vice president of marketing for our fuels and lubricants business and it's really my
+privilege to welcome you here. This morning for what we think is going to be a very interesting, engaging and hopefully provocative discussion around innovation. I wanted to make a couple of comments before I introduce our guest speaker and I'll start with.",
+              "Sentiment": null,
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "SpeakerId": null,
+          "Offset": 425600000,
+          "Duration": 232800000,
+          "NBest": [
+            {
+              "Confidence": 0.9271564,
+              "Lexical": "our fuels and lubricants business but then i'll expand broadly 'cause i know from the signups that that we have people from across the houston campus and really from across all of our operating companies and it's great that we've got such a wide distribution of folks it was about a year ago that we created inside our fuels and lubricants company an innovation cioe",
+              "ITN": "our fuels and lubricants business but then I'll expand broadly 'cause I know from the signups that that we have people from across
+the Houston campus and really from across all of our operating companies and it's great that we've got such a wide distribution of folks it was about a year ago that we created inside our fuels and lubricants company an innovation cioe",
+              "MaskedITN": "our fuels and lubricants business but then I'll expand broadly 'cause I know from the signups that that we have people from across the Houston campus and really from across all of our operating companies and it's great that we've got such a wide distribution of folks it was about a year ago that we created inside our fuels and lubricants company an innovation cioe",
+              "Display": "Our fuels and lubricants business, but then I'll expand broadly 'cause. I know from the signups that that we have people from across the Houston campus and really from across all of our operating companies and it's great that we've got such a wide distribution of folks. It was about a year ago that we created inside our fuels and lubricants company an innovation cioe.",
+              "Sentiment": null,
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "SpeakerId": null,
+          "Offset": 663600000,
+          "Duration": 301900000,
+          "NBest": [
+            {
+              "Confidence": 0.9284872,
+              "Lexical": "and you know we did that because we had up to lead lead into that decision we kept having discussions around we want to be more innovative and you know the world around us the pace of change is accelerating and there's disruptive change and do you want to be the uber or do you want to be the taxi driver right so a lot of those discussions were taking place but we were also frustrated by our lack of progress and lack of ability to kind of",
+              "ITN": "and you know we did that because we had up to lead lead into that decision we kept having discussions around we want to be more innovative and you know the world around us the pace of change is accelerating and there's disruptive change and do you want to be the Uber or do you want to be the taxi driver right so a lot of those discussions were taking place but we were also frustrated by our lack of progress and lack of ability to kind of",
+              "MaskedITN": "and you know we did that because we had up to lead lead into that decision we kept having discussions around we want to be more innovative and you know the world around us the pace of change is accelerating and there's disruptive change and do you want to be the Uber or do you
+want to be the taxi driver right so a lot of those discussions were taking place but we were also frustrated by our lack of progress and lack of ability
+to kind of",
+              "Display": "And you know, we did that because we had up to lead lead into that decision. We kept having discussions around. We want to be more innovative and you know the world around us. The pace of change is accelerating and there's disruptive change and do you want to be the Uber or do you want to be the taxi driver right so a lot of those discussions were taking place, but we were also frustrated by our lack of progress and lack of ability to kind of.",
+              "Sentiment": null,
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "SpeakerId": null,
+          "Offset": 965500000,
+          "Duration": 129200000,
+          "NBest": [
+            {
+              "Confidence": 0.9427944,
+              "Lexical": "get things going in this area so we created a small dedicated team because one of the things we realize is that to be successful in this space it does require some focus",
+              "ITN": "get things going in this area so we created a small dedicated team because one of the things we realize is that to be successful in this space it does require some focus",
+              "MaskedITN": "get things going in this area so we created a small dedicated team because one of the things we realize is that to be successful in this space it does require some focus",
+              "Display": "Get things going in this area, so we created a small dedicated team because one of the things we realize is that to be successful in this space, it does require some focus.",
+              "Sentiment": null,
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "SpeakerId": null,
+          "Offset": 1099800000,
+          "Duration": 86900000,
+          "NBest": [
+            {
+              "Confidence": 0.934322357,
+              "Lexical": "it does require the right number of dedicated resources with dedicated budgets but more importantly",
+              "ITN": "it does require the right number of dedicated resources with dedicated budgets but more importantly",
+              "MaskedITN": "it does require the right number of dedicated resources with dedicated budgets but more importantly",
+              "Display": "It does require the right number of dedicated resources with dedicated budgets, but more importantly.",
+              "Sentiment": null,
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "SpeakerId": null,
+          "Offset": 1192300000,
+          "Duration": 16600000,
+          "NBest": [
+            {
+              "Confidence": 0.9593157,
+              "Lexical": "it requires a commitment",
+              "ITN": "it requires a commitment",
+              "MaskedITN": "it requires a commitment",
+              "Display": "It requires a commitment.",
+              "Sentiment": null,
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "SpeakerId": null,
+          "Offset": 1214800000,
+          "Duration": 231600000,
+          "NBest": [
+            {
+              "Confidence": 0.9428677,
+              "Lexical": "right and a commitment all the way down through the organization that says were committed to being more innovative we want your ideas and we're going to create an environment where we can take your ideas and do something with them right and we're going to create an environment that says it's OK to try some things that might not work",
+              "ITN": "right and a commitment all the way down through the organization that says were committed to being more innovative we want your ideas and we're going to create an environment where we can take your ideas and do something with them right and we're going to create an environment that says it's OK to try some things that might not work",
+              "MaskedITN": "right and a commitment all the way down through the organization that says were committed to being more innovative we want your ideas and we're going to create an environment where we can take your ideas and do something with them right and we're going to create an environment
+that says it's OK to try some things that might not work",
+              "Display": "Right and a commitment all the way down through the organization that says were committed to being more innovative. We want your ideas and we're going to create an environment where we can take your ideas and do something with them right and we're going to create an environment that says it's OK to try some things that might not work.",
+              "Sentiment": null,
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "SpeakerId": null,
+          "Offset": 1454400000,
+          "Duration": 13400000,
+          "NBest": [
+            {
+              "Confidence": 0.906063,
+              "Lexical": "and test and learn",
+              "ITN": "and test and learn",
+              "MaskedITN": "and test and learn",
+              "Display": "And test and learn.",
+              "Sentiment": null,
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "SpeakerId": null,
+          "Offset": 1473400000,
+          "Duration": 82800000,
+          "NBest": [
+            {
+              "Confidence": 0.914046645,
+              "Lexical": "and we're going to create an environment that accept some of that commercial risk and uncertainty that that we're often dealing with in this space so",
+              "ITN": "and we're going to create an environment that accept some of that commercial risk and uncertainty that that we're often dealing with in this space so",
+              "MaskedITN": "and we're going to create an environment that accept some of that commercial risk and uncertainty that that we're often dealing with in this space so",
+              "Display": "And we're going to create an environment that accept some of that commercial risk and uncertainty that that we're often dealing with in this space so.",
+              "Sentiment": null,
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "SpeakerId": null,
+          "Offset": 1562800000,
+          "Duration": 301500000,
+          "NBest": [
+            {
+              "Confidence": 0.9319002,
+              "Lexical": "you know i do think it's a mindset i do think leaders in the organization have to create a learning environment in an environment that embraces a willingness to test and learn and try things and as you listen today i know we're going to talk you're going to hear a little bit about well what can you do because i can also say to you that being innovative is not the job of like a handful of people innovation cioe right or counting on everybody in the organization to come forward with their ideas",
+              "ITN": "you know I do think it's a mindset I do think leaders in the organization have to create a learning environment in an environment that embraces a willingness to test and learn and try things and as you listen today I know we're going to talk you're going to hear a little bit about well what can you do because I can also say to you that being innovative is not the job of like a handful of people innovation cioe right or counting on everybody in the organization to come forward with their ideas",
+              "MaskedITN": "you know I do think it's a mindset I do think leaders in the organization have to create a learning environment in an environment that embraces a willingness to test and learn and try things and as you listen today I know we're going to talk you're going to hear a little bit about well what can you do because I can also say to you that being innovative is not the job of like a handful of people innovation cioe right or counting on everybody in the organization to come forward with their ideas",
+              "Display": "You know, I do think it's a mindset. I do think leaders in the organization have to create a learning environment in an environment that embraces a willingness to test and learn and try things and as you listen today. I know we're going to talk. You're going to hear a little bit
+about well. What can you do because I can also say to you that being innovative is not the job of like a handful of people innovation cioe right or counting on everybody in the organization to come forward with their ideas.",
+              "Sentiment": null,
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "SpeakerId": null,
+          "Offset": 1864300000,
+          "Duration": 236200000,
+          "NBest": [
+            {
+              "Confidence": 0.9136134,
+              "Lexical": "and workout in a lot of innovation you know the things that they aren't even as transformative are things that can happen really in core right around your base business and certainly want everybody to feel empowered to bring those ideas forward so with that said we have partnered up with emory U R C",
+              "ITN": "and workout in a lot of innovation you know the things that they aren't even as transformative are things that can happen really in core right around your base business and certainly want everybody to feel empowered to bring those ideas forward so with that said we have partnered up
+with Emory URC",
+              "MaskedITN": "and workout in a lot of innovation you know the things that they aren't even as transformative are things that can happen really in core right around your base business and certainly want everybody to feel empowered to bring those ideas forward so with that said we have partnered up with Emory URC",
+              "Display": "And workout in a lot of innovation. You know the things that they aren't even as transformative are things that can happen really in core right around your base business and certainly want everybody to feel empowered to bring those ideas forward so with that, said, we have partnered up with Emory URC.",
+              "Sentiment": null,
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "SpeakerId": null,
+          "Offset": 2108400000,
+          "Duration": 298100000,
+          "NBest": [
+            {
+              "Confidence": 0.9215749,
+              "Lexical": "chemicals some folks are on the phone so appreciate folks that are dialing in on the series a series where we're going to be bringing in speakers and industry experts people that can share their wisdom with us share their experience and hopefully also provoke us to action and generate some ideas for us an it's my honor and privilege to introduce our very first speaker in that series is larry keeley",
+              "ITN": "chemicals some folks are on the phone so appreciate folks that are dialing in on the Series A series where we're going to be bringing in speakers and industry experts people that can share their wisdom with us share their experience and hopefully also provoke us to action and generate some ideas for us an it's my honor and privilege to introduce our very first speaker in that series is Larry keeley",
+              "MaskedITN": "chemicals some folks are on the phone so appreciate folks that are dialing in on the Series A series where we're going to be
+bringing in speakers and industry experts people that can share their wisdom with us share their experience and hopefully also provoke us to action and generate some ideas for us an it's my honor and privilege to introduce our very first speaker in that series is Larry keeley",
+              "Display": "Chemicals some folks are on the phone so appreciate folks that are dialing in on the Series. A series where we're going to be bringing in speakers and industry. Experts people that can share their wisdom with us share their experience and hopefully also provoke us to action and generate some ideas for us. An it's my honor and privilege to introduce our very first speaker in that series is Larry Keeley.",
+              "Sentiment": null,
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "SpeakerId": null,
+          "Offset": 2412600000,
+          "Duration": 236600000,
+          "NBest": [
+            {
+              "Confidence": 0.936222,
+              "Lexical": "larry is a strategist who has worked more than three decades to develop more effective innovation methods he is the president and co-founder of dublin which is an innovation strategy firm known for pioneering comprehensive innovation systems that materially improve innovation success rates and return on investment",
+              "ITN": "Larry is a strategist who has worked more than 3 decades to develop more effective innovation methods he is the president and co-founder of Dublin which is an innovation strategy firm known for pioneering comprehensive innovation systems that materially improve innovation success rates and return on investment",
+              "MaskedITN": "Larry is a strategist who has worked more than 3 decades to develop more effective innovation methods he is the president and co-founder of Dublin which is an innovation strategy firm known for pioneering comprehensive innovation systems that materially improve innovation success rates and return on investment",
+              "Display": "Larry is a strategist who has worked more than 3 decades to develop more effective innovation methods. He is the president and
+co-founder of Dublin, which is an innovation strategy firm known for pioneering comprehensive innovation systems that materially improve innovation success rates and return on investment.",
+              "Sentiment": null,
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "SpeakerId": null,
+          "Offset": 2654300000,
+          "Duration": 315700000,
+          "NBest": [
+            {
+              "Confidence": 0.932947636,
+              "Lexical": "dublin is now a unit of deloitte consulting where kelly services are managing director i was talking with larry when i came in
+and i would just say that his credentials are quite impressive he is on the faculty of the illinois institute of design one of the world 's leading design institutes also on the faculty of the kellogg graduate school of management and regularly lectures at university of chicago and business schools around the world including i found out",
+              "ITN": "Dublin is now a unit of Deloitte consulting where Kelly services are managing director I was talking with Larry when I came in and
+I would just say that his credentials are quite impressive he is on the faculty of the Illinois institute of design one of the world's leading design institutes also on the faculty of the Kellogg graduate school of management and regularly lectures at University of Chicago and business schools around the
+world including I found out",
+              "MaskedITN": "Dublin is now a unit of Deloitte consulting where Kelly services are managing director I was talking with Larry when I came in and I would just say that his credentials are quite impressive he is on the faculty of the Illinois institute of design one of the world's leading design institutes also on the faculty of the Kellogg graduate school of management and regularly lectures at University of Chicago and business schools around the world including I found out",
+              "Display": "Dublin is now a unit of Deloitte consulting where Kelly services are managing director. I was talking with Larry when I came in and I would just say that his credentials are quite impressive. He is on the faculty of the Illinois Institute of design. One of the world's leading design institutes. Also on the faculty of the Kellogg Graduate School of Management and regularly lectures at University of Chicago and business schools around the world, including I found out.",
+              "Sentiment": null,
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "SpeakerId": null,
+          "Offset": 2970000000,
+          "Duration": 137100000,
+          "NBest": [
+            {
+              "Confidence": 0.923932731,
+              "Lexical": "university of michigan where my daughter is a freshman so he is teaches uh innovation strategy classes and a number of these institutions and he's really here today to talk to us about what we can do",
+              "ITN": "University of Michigan where my daughter is a freshman so he is teaches uh innovation strategy classes and a number of these institutions and he's really here today to talk to us about what we can do",
+              "MaskedITN": "University of Michigan where my daughter is a freshman so he is teaches uh innovation strategy classes and a number of these
+institutions and he's really here today to talk to us about what we can do",
+              "Display": "University of Michigan where my daughter is a freshman so he is teaches uh innovation strategy classes and a number of these institutions and he's really here today to talk to us about what we can do.",
+              "Sentiment": null,
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "SpeakerId": null,
+          "Offset": 3113100000,
+          "Duration": 92500000,
+          "NBest": [
+            {
+              "Confidence": 0.8964,
+              "Lexical": "to deal with extraordinary change and disruptive change and what we can do to all become more innovative so please welcome larry kelly",
+              "ITN": "to deal with extraordinary change and disruptive change and what we can do to all become more innovative so please welcome Larry Kelly",
+              "MaskedITN": "to deal with extraordinary change and disruptive change and what we can do to all become more innovative so please welcome Larry Kelly",
+              "Display": "To deal with extraordinary change and disruptive change and what we can do to all become more innovative so please welcome Larry Kelly.",
+              "Sentiment": null,
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "SpeakerId": null,
+          "Offset": 3254900000,
+          "Duration": 77800000,
+          "NBest": [
+            {
+              "Confidence": 0.9335642,
+              "Lexical": "well that was extraordinarily gracious and generous thank you it's a treat to be here for your inaugural speaker in the speaker series",
+              "ITN": "well that was extraordinarily gracious and generous thank you it's a treat to be here for your inaugural speaker in the speaker series",
+              "MaskedITN": "well that was extraordinarily gracious and generous thank you it's a treat to be here for your inaugural speaker in the speaker series",
+              "Display": "Well, that was extraordinarily gracious and generous thank you. It's a treat to be here for your inaugural speaker in the speaker series.",
+              "Sentiment": null,
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "SpeakerId": null,
+          "Offset": 3337800000,
+          "Duration": 80300000,
+          "NBest": [
+            {
+              "Confidence": 0.931936145,
+              "Lexical": "i have benefon of exxon mobil for three decades i have done lots of innovation in your space",
+              "ITN": "I have benefon of Exxon Mobil for 3 decades I have done lots of innovation in your space",
+              "MaskedITN": "I have benefon of Exxon Mobil for 3 decades I have done lots of innovation in your space",
+              "Display": "I have Benefon of Exxon Mobil for 3 decades. I have done lots of innovation in your space.",
+              "Sentiment": null,
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "SpeakerId": null,
+          "Offset": 3423800000,
+          "Duration": 71000000,
+          "NBest": [
+            {
+              "Confidence": 0.950933039,
+              "Lexical": "an unlike a lot of people that i think have a partial and incomplete understanding of your category",
+              "ITN": "an unlike a lot of people that I think have a partial and incomplete understanding of your category",
+              "MaskedITN": "an unlike a lot of people that I think have a partial and incomplete understanding of your category",
+              "Display": "An unlike a lot of people that I think have a partial and incomplete understanding of your category.",
+              "Sentiment": null,
+              "Words": null
+            }
+          ]
+        },
+        {
+          "RecognitionStatus": "Success",
+          "ChannelNumber": null,
+          "SpeakerId": null,
+          "Offset": 3500800000,
+          "Duration": 102000000,
+          "NBest": [
+            {
+              "Confidence": 0.9354298,
+              "Lexical": "it's clear to me that the people that run this business and this industry make the rest of what the world is trying to do actually function so let me just say",
+              "ITN": "it's clear to me that the people that run this business and this industry make the rest of what the world is trying to do actually
+function so let me just say",
+              "MaskedITN": "it's clear to me that the people that run this business and this industry make the rest of what the world is trying to do actually function so let me just say",
+              "Display": "It's clear to me that the people that run. This business and this industry make the rest of what the world is trying to do actually function so let me just say.",
+              "Sentiment": null,
+              "Words": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

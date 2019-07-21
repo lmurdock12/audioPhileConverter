@@ -1,0 +1,534 @@
+{
+    "AudioFileResults": [
+      {
+        "AudioFileName": "Channel.0.wav",
+        "AudioFileUrl": null,
+        "SegmentResults": [
+          {
+            "RecognitionStatus": "Success",
+            "ChannelNumber": null,
+            "SpeakerId": null,
+            "Offset": 90500000,
+            "Duration": 80300000,
+            "NBest": [
+              {
+                "Confidence": 0.931360543,
+                "Lexical": "i have benefon of exxon mobil for three decades i have done lots of innovation in your space",
+                "ITN": "I have benefon of Exxon Mobil for 3 decades I have done lots of innovation in your space",
+                "MaskedITN": "I have benefon of Exxon Mobil for 3 decades I have done lots of innovation in your space",
+                "Display": "I have Benefon of Exxon Mobil for 3 decades. I have done lots of innovation in your space.",
+                "Sentiment": {
+                  "Negative": 0.99669,
+                  "Neutral": 0,
+                  "Positive": 0
+                },
+                "Words": [
+                  {
+                    "Word": "i",
+                    "Offset": 90700000,
+                    "Duration": 2200000
+                  },
+                  {
+                    "Word": "have",
+                    "Offset": 92900000,
+                    "Duration": 5600000
+                  },
+                  {
+                    "Word": "benefon",
+                    "Offset": 98700000,
+                    "Duration": 10800000
+                  },
+                  {
+                    "Word": "of",
+                    "Offset": 109500000,
+                    "Duration": 2400000
+                  },
+                  {
+                    "Word": "exxon",
+                    "Offset": 111900000,
+                    "Duration": 4100000
+                  },
+                  {
+                    "Word": "mobil",
+                    "Offset": 116000000,
+                    "Duration": 6500000
+                  },
+                  {
+                    "Word": "for",
+                    "Offset": 122500000,
+                    "Duration": 6200000
+                  },
+                  {
+                    "Word": "three",
+                    "Offset": 128700000,
+                    "Duration": 3200000
+                  },
+                  {
+                    "Word": "decades",
+                    "Offset": 131900000,
+                    "Duration": 7600000
+                  },
+                  {
+                    "Word": "i",
+                    "Offset": 139700000,
+                    "Duration": 2200000
+                  },
+                  {
+                    "Word": "have",
+                    "Offset": 141900000,
+                    "Duration": 2600000
+                  },
+                  {
+                    "Word": "done",
+                    "Offset": 144500000,
+                    "Duration": 3600000
+                  },
+                  {
+                    "Word": "lots",
+                    "Offset": 148300000,
+                    "Duration": 4200000
+                  },
+                  {
+                    "Word": "of",
+                    "Offset": 152500000,
+                    "Duration": 900000
+                  },
+                  {
+                    "Word": "innovation",
+                    "Offset": 153400000,
+                    "Duration": 6700000
+                  },
+                  {
+                    "Word": "in",
+                    "Offset": 160100000,
+                    "Duration": 1900000
+                  },
+                  {
+                    "Word": "your",
+                    "Offset": 162000000,
+                    "Duration": 1700000
+                  },
+                  {
+                    "Word": "space",
+                    "Offset": 163700000,
+                    "Duration": 6900000
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "RecognitionStatus": "Success",
+            "ChannelNumber": null,
+            "SpeakerId": null,
+            "Offset": 176500000,
+            "Duration": 178800000,
+            "NBest": [
+              {
+                "Confidence": 0.9380357,
+                "Lexical": "an unlike a lot of people that i think have a partial and incomplete understanding of your category it's clear to me that the people that run this business and this industry make the rest of what the world is trying to do actually function so let me just say",
+                "ITN": "an unlike a lot of people that I think have a partial and incomplete understanding of your category it's clear to me that the people that run this business and this industry make the rest of what the world is trying to do actually function so let me just say",
+                "MaskedITN": "an unlike a lot of people that I think have a partial and incomplete understanding of your category it's clear to me that the people that run this business and this industry make the rest of what the world is trying to do actually function so let me just say",
+                "Display": "An unlike a lot of people that I think have a partial and incomplete understanding of your category. It's clear to me that the people that run. This business and this industry make the rest of what the world is trying to do actually function so let me just say.",
+                "Sentiment": {
+                  "Negative": 1,
+                  "Neutral": 0,
+                  "Positive": 0
+                },
+                "Words": [
+                  {
+                    "Word": "an",
+                    "Offset": 176700000,
+                    "Duration": 3600000
+                  },
+                  {
+                    "Word": "unlike",
+                    "Offset": 180300000,
+                    "Duration": 4800000
+                  },
+                  {
+                    "Word": "a",
+                    "Offset": 185100000,
+                    "Duration": 800000
+                  },
+                  {
+                    "Word": "lot",
+                    "Offset": 185900000,
+                    "Duration": 2600000
+                  },
+                  {
+                    "Word": "of",
+                    "Offset": 188500000,
+                    "Duration": 800000
+                  },
+                  {
+                    "Word": "people",
+                    "Offset": 189300000,
+                    "Duration": 4400000
+                  },
+                  {
+                    "Word": "that",
+                    "Offset": 193700000,
+                    "Duration": 1800000
+                  },
+                  {
+                    "Word": "i",
+                    "Offset": 195500000,
+                    "Duration": 1200000
+                  },
+                  {
+                    "Word": "think",
+                    "Offset": 196700000,
+                    "Duration": 3000000
+                  },
+                  {
+                    "Word": "have",
+                    "Offset": 199700000,
+                    "Duration": 4000000
+                  },
+                  {
+                    "Word": "a",
+                    "Offset": 203700000,
+                    "Duration": 1800000
+                  },
+                  {
+                    "Word": "partial",
+                    "Offset": 205500000,
+                    "Duration": 9300000
+                  },
+                  {
+                    "Word": "and",
+                    "Offset": 215000000,
+                    "Duration": 5200000
+                  },
+                  {
+                    "Word": "incomplete",
+                    "Offset": 220400000,
+                    "Duration": 7500000
+                  },
+                  {
+                    "Word": "understanding",
+                    "Offset": 228100000,
+                    "Duration": 8600000
+                  },
+                  {
+                    "Word": "of",
+                    "Offset": 236700000,
+                    "Duration": 1100000
+                  },
+                  {
+                    "Word": "your",
+                    "Offset": 237800000,
+                    "Duration": 1500000
+                  },
+                  {
+                    "Word": "category",
+                    "Offset": 239300000,
+                    "Duration": 10200000
+                  },
+                  {
+                    "Word": "it's",
+                    "Offset": 254000000,
+                    "Duration": 2500000
+                  },
+                  {
+                    "Word": "clear",
+                    "Offset": 256500000,
+                    "Duration": 3800000
+                  },
+                  {
+                    "Word": "to",
+                    "Offset": 260300000,
+                    "Duration": 1400000
+                  },
+                  {
+                    "Word": "me",
+                    "Offset": 261700000,
+                    "Duration": 3000000
+                  },
+                  {
+                    "Word": "that",
+                    "Offset": 264700000,
+                    "Duration": 1800000
+                  },
+                  {
+                    "Word": "the",
+                    "Offset": 266500000,
+                    "Duration": 1000000
+                  },
+                  {
+                    "Word": "people",
+                    "Offset": 267500000,
+                    "Duration": 4000000
+                  },
+                  {
+                    "Word": "that",
+                    "Offset": 271500000,
+                    "Duration": 2100000
+                  },
+                  {
+                    "Word": "run",
+                    "Offset": 273600000,
+                    "Duration": 3800000
+                  },
+                  {
+                    "Word": "this",
+                    "Offset": 277600000,
+                    "Duration": 4100000
+                  },
+                  {
+                    "Word": "business",
+                    "Offset": 281700000,
+                    "Duration": 8200000
+                  },
+                  {
+                    "Word": "and",
+                    "Offset": 290800000,
+                    "Duration": 2700000
+                  },
+                  {
+                    "Word": "this",
+                    "Offset": 293500000,
+                    "Duration": 2200000
+                  },
+                  {
+                    "Word": "industry",
+                    "Offset": 295700000,
+                    "Duration": 8900000
+                  },
+                  {
+                    "Word": "make",
+                    "Offset": 305300000,
+                    "Duration": 4200000
+                  },
+                  {
+                    "Word": "the",
+                    "Offset": 309500000,
+                    "Duration": 2000000
+                  },
+                  {
+                    "Word": "rest",
+                    "Offset": 311500000,
+                    "Duration": 4000000
+                  },
+                  {
+                    "Word": "of",
+                    "Offset": 315500000,
+                    "Duration": 1000000
+                  },
+                  {
+                    "Word": "what",
+                    "Offset": 316500000,
+                    "Duration": 1700000
+                  },
+                  {
+                    "Word": "the",
+                    "Offset": 318200000,
+                    "Duration": 1100000
+                  },
+                  {
+                    "Word": "world",
+                    "Offset": 319300000,
+                    "Duration": 2700000
+                  },
+                  {
+                    "Word": "is",
+                    "Offset": 322000000,
+                    "Duration": 1100000
+                  },
+                  {
+                    "Word": "trying",
+                    "Offset": 323100000,
+                    "Duration": 2700000
+                  },
+                  {
+                    "Word": "to",
+                    "Offset": 325800000,
+                    "Duration": 900000
+                  },
+                  {
+                    "Word": "do",
+                    "Offset": 326700000,
+                    "Duration": 2200000
+                  },
+                  {
+                    "Word": "actually",
+                    "Offset": 328900000,
+                    "Duration": 4800000
+                  },
+                  {
+                    "Word": "function",
+                    "Offset": 333700000,
+                    "Duration": 6400000
+                  },
+                  {
+                    "Word": "so",
+                    "Offset": 342500000,
+                    "Duration": 3000000
+                  },
+                  {
+                    "Word": "let",
+                    "Offset": 345500000,
+                    "Duration": 1200000
+                  },
+                  {
+                    "Word": "me",
+                    "Offset": 346700000,
+                    "Duration": 800000
+                  },
+                  {
+                    "Word": "just",
+                    "Offset": 347500000,
+                    "Duration": 2000000
+                  },
+                  {
+                    "Word": "say",
+                    "Offset": 349500000,
+                    "Duration": 5600000
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "RecognitionStatus": "Success",
+            "ChannelNumber": null,
+            "SpeakerId": null,
+            "Offset": 7600000,
+            "Duration": 77900000,
+            "NBest": [
+              {
+                "Confidence": 0.9338479,
+                "Lexical": "well that was extraordinarily gracious and generous thank you it's a treat to be here for your inaugural speaker in the speaker series",
+                "ITN": "well that was extraordinarily gracious and generous thank you it's a treat to be here for your inaugural speaker in the speaker series",
+                "MaskedITN": "well that was extraordinarily gracious and generous thank you it's a treat to be here for your inaugural speaker in the speaker series",
+                "Display": "Well, that was extraordinarily gracious and generous thank you. It's a treat to be here for your inaugural speaker in the speaker series.",
+                "Sentiment": {
+                  "Negative": 0,
+                  "Neutral": 0,
+                  "Positive": 1
+                },
+                "Words": [
+                  {
+                    "Word": "well",
+                    "Offset": 7800000,
+                    "Duration": 1900000
+                  },
+                  {
+                    "Word": "that",
+                    "Offset": 9700000,
+                    "Duration": 1300000
+                  },
+                  {
+                    "Word": "was",
+                    "Offset": 11000000,
+                    "Duration": 1600000
+                  },
+                  {
+                    "Word": "extraordinarily",
+                    "Offset": 12600000,
+                    "Duration": 7100000
+                  },
+                  {
+                    "Word": "gracious",
+                    "Offset": 19700000,
+                    "Duration": 5500000
+                  },
+                  {
+                    "Word": "and",
+                    "Offset": 25200000,
+                    "Duration": 1000000
+                  },
+                  {
+                    "Word": "generous",
+                    "Offset": 26200000,
+                    "Duration": 4800000
+                  },
+                  {
+                    "Word": "thank",
+                    "Offset": 31000000,
+                    "Duration": 3000000
+                  },
+                  {
+                    "Word": "you",
+                    "Offset": 34000000,
+                    "Duration": 1600000
+                  },
+                  {
+                    "Word": "it's",
+                    "Offset": 35600000,
+                    "Duration": 1600000
+                  },
+                  {
+                    "Word": "a",
+                    "Offset": 37200000,
+                    "Duration": 1800000
+                  },
+                  {
+                    "Word": "treat",
+                    "Offset": 39200000,
+                    "Duration": 6000000
+                  },
+                  {
+                    "Word": "to",
+                    "Offset": 45200000,
+                    "Duration": 1200000
+                  },
+                  {
+                    "Word": "be",
+                    "Offset": 46400000,
+                    "Duration": 2200000
+                  },
+                  {
+                    "Word": "here",
+                    "Offset": 48600000,
+                    "Duration": 3200000
+                  },
+                  {
+                    "Word": "for",
+                    "Offset": 51800000,
+                    "Duration": 1800000
+                  },
+                  {
+                    "Word": "your",
+                    "Offset": 53600000,
+                    "Duration": 1800000
+                  },
+                  {
+                    "Word": "inaugural",
+                    "Offset": 55400000,
+                    "Duration": 6600000
+                  },
+                  {
+                    "Word": "speaker",
+                    "Offset": 62000000,
+                    "Duration": 6200000
+                  },
+                  {
+                    "Word": "in",
+                    "Offset": 68200000,
+                    "Duration": 3800000
+                  },
+                  {
+                    "Word": "the",
+                    "Offset": 72000000,
+                    "Duration": 3600000
+                  },
+                  {
+                    "Word": "speaker",
+                    "Offset": 75800000,
+                    "Duration": 4000000
+                  },
+                  {
+                    "Word": "series",
+                    "Offset": 79800000,
+                    "Duration": 5500000
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
